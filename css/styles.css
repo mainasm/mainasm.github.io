@@ -12,8 +12,8 @@
 
   --clr-light:white;
   --clr-dark: #1b1515;
-  --clr-acc: #f844bc;
-  --clr-dull: gray;
+  --clr-acc: #0a41cdc6;
+  --clr-dull: rgba(194, 191, 14, 0.744);
 
     --fs-h1: 4rem;
     --fs-h2: 3rem;
@@ -153,7 +153,7 @@ header {
 
 .nav-btn{
   padding: .7em;
-  background: snow;
+  background: rgb(223, 211, 211);
   border: 0;
   cursor: pointer;
   position: absolute;
