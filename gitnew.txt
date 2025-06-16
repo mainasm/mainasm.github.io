@@ -1,0 +1,2 @@
+This is my first github trial
+Add gitnew.txt
