@@ -1,2 +1,4 @@
 This is my first github trial
 Add gitnew.txt
+Added a second line from the new-feature branch.
+Update gitnew.txt in new-feature branch
