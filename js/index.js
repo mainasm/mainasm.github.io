@@ -10,3 +10,7 @@ navlinks.forEach(link => {
         document.body.classList.remove('open-nav');
     });
 });
+const toggleButton = document.getElementById('darkModeToggle');
+toggleButton.addEventListener('click', () => {
+    document.body.classList.toggle('dark-mode');
+});
